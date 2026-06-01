@@ -39,6 +39,3 @@ Dataset Size:
 
 Siddharth
 
-AI & ML Internship Project
-
-Pluto Academy
